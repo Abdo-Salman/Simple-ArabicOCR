@@ -1,11 +1,11 @@
-Arabic Character Recognition using Deep Learning
+# Arabic Character Recognition using Deep Learning
 
-Overview
+## Overview
 
 - This project aims to recognize Arabic characters using deep learning techniques. The model is built and trained using Python in Jupyter Notebook, leveraging the 
   AHCD1 dataset from Kaggle.
 
-Libraries Used
+## Libraries Used
 
 - Matplotlib
 - Pandas
@@ -21,18 +21,18 @@ Libraries Used
 - re
 - to_categorical from TensorFlow.keras.utils
 
-Dataset
+## Dataset
 
 - The dataset used in this project is the Arabic Handwritten Characters Dataset (AHCD1) available on Kaggle. It contains handwritten characters in Arabic script, 
   which are used for training and testing the recognition model.
 
-Requirements
+## Requirements
 
 - Python 3
 - Jupyter Notebook
 - Libraries: TensorFlow, Keras, NumPy, Matplotlib, etc. (List dependencies)
 
-Usage
+## Usage
 
 - Open the Jupyter Notebook file Arabic_Character_Recognition.ipynb.
 - Follow the instructions within the notebook to:
@@ -42,8 +42,8 @@ Usage
 - Test the model using the provided test code with an image.
 - Or you can use the model that is already trained.
 
-License
-- This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-Acknowledgments
+## Acknowledgments
 - AHCD1 Dataset on Kaggle
