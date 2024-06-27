@@ -43,7 +43,7 @@ Usage
 - Or you can use the model that is already trained.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 - AHCD1 Dataset on Kaggle
