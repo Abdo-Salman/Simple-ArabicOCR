@@ -23,7 +23,7 @@
 
 ## Dataset
 
-- The dataset used in this project is the Arabic Handwritten Characters Dataset (AHCD1) available on Kaggle. It contains handwritten characters in Arabic script, 
+- The dataset used in this project is the [Arabic Handwritten Characters Dataset (AHCD1)](https://www.kaggle.com/datasets/mloey1/ahcd1) available on Kaggle. It contains handwritten characters in Arabic script, 
   which are used for training and testing the recognition model.
 
 ## Requirements
